@@ -131,6 +131,7 @@
     <ClInclude Include="Plenty.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="class6.cpp" />
     <ClCompile Include="iterator.cpp" />
     <ClCompile Include="Plenty.cpp" />
   </ItemGroup>
